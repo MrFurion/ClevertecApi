@@ -1,0 +1,4 @@
+rootProject.name = 'ClevertecPlagin'
+include 'core'
+include 'api'
+
