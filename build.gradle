@@ -20,7 +20,7 @@ dependencies {
     implementation gradleApi()
     implementation localGroovy()
     implementation 'org.jacoco:org.jacoco.core:0.8.8'
-    implementation files('H:\\IT\\Java\\Проэкт\\ClevertecDependence\\build\\libs\\utils-1.3.5.jar')
+    implementation files('utils-1.3.5.jar')
 }
 
 test {
